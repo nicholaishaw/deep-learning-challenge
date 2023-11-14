@@ -1,4 +1,4 @@
-# Credit Risk Report
+# Deep Learning with Neural Networks
 
 # Overview:
 Choosing which organizations to fund is a complex process that requires a thorough assessment of different variables—the organizations' financial histories, types of organizations, and affiliations to name a few. Assessing each organization can be time-consuming, particularly when dealing with a large number of applications. However, certain supervised learning models can identify historical patterns of organizational success, examining common variables that indicate whether an investment is healthy or risky. As such, our model was developed to aid in the decision-making process of identifying organizations that have the highest likelihood of success. The dataset used to create this model comprised of information on 34,000 organizations who previously received funding. The dataset contained information of the organizations' success rate, organizational traits, and previous financial history.
