@@ -10,5 +10,13 @@ Choosing which organizations to fund is a complex process that requires a thorou
     
 **Optimizing.** First, we decreased the number of epochs (number of times the data were processed) from 100 to 50. Second, we dropped irrelevant columns such as EIN, name, special considerations, and organization activity. Third, we increased the 'other' category to include more application types and classifications. Last, we increased the number of neurons from 80 to 100 in the first layer and 30 to 50 neurons in the second layer. As a result, we achieved an accuracy of 72.27%.
 
+![image](https://github.com/nicholaishaw/deep-learning-challenge/assets/135463220/35452a40-5a75-4e6b-ad49-82c9d83b1f61)
+
+**Figure 1.** *Accuracy score of the initial model.*
+
+![image](https://github.com/nicholaishaw/deep-learning-challenge/assets/135463220/1e79202b-1cb6-4b15-a196-1b52169d41b8)
+
+**Figure 2.** *Accuracy score of the optimized model.*
+
 # Summary:
 Our model possesses reasonable accuracy with an accuracy score of 72.38% (i.e., the model is able to predict a successful investment 72.38% of the time). Given the moderate performance of the model, it is recommended that the model be used to assist with funding decisions after careful examination of the organizations' background information and financial histories.
